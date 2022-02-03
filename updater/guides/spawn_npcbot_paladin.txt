@@ -1,0 +1,6 @@
+NPCB RANDOM PALADIN SPAWN:
+ 
+/run xx = math.floor(math.random(70051, 70074));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
+

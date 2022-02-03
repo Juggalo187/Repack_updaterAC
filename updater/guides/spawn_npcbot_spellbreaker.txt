@@ -1,0 +1,6 @@
+NPCB RANDOM SPELLBREAKER SPAWN:
+ 
+/run xx = math.floor(math.random(70563, 70567));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
+

@@ -1,0 +1,6 @@
+NPCB RANDOM OBSIDIAN DESTROYER SPAWN:
+ 
+/run xx = math.floor(math.random(70553, 70554));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
+

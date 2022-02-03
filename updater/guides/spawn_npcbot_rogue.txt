@@ -1,0 +1,6 @@
+NPCB RANDOM ROGUE SPAWN:
+ 
+/run xx = math.floor(math.random(70151, 70181));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
+

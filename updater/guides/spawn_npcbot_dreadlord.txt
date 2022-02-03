@@ -1,0 +1,6 @@
+NPCB RANDOM DREADLORD SPAWN:
+ 
+/run xx = math.floor(math.random(70557, 70561));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
+

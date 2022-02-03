@@ -1,0 +1,6 @@
+NPCB RANDOM WARLOCK SPAWN:
+ 
+/run xx = math.floor(math.random(70351, 70377));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
+

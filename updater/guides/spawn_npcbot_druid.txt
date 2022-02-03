@@ -1,0 +1,5 @@
+NPCB RANDOM DRUID SPAWN:
+ 
+/run xx = math.floor(math.random(70401, 70418));
+/run SendChatMessage(".npcb spawn "..xx.."","SAY");
+
