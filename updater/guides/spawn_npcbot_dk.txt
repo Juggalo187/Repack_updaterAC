@@ -1,6 +1,0 @@
-NPCB RANDOM DEATH KNIGHT SPAWN:
- 
-/run xx = math.floor(math.random(70451, 70465));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-
-

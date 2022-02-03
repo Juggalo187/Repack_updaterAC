@@ -1,4 +1,0 @@
-NPCB ARCHMAGE SPAWN:
-
-/run SendChatMessage(".npcb spawn 70555,"SAY");
-

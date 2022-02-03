@@ -1,6 +1,0 @@
-NPCB RANDOM HUNTER SPAWN:
- 
-/run xx = math.floor(math.random(70101, 70139));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-
-

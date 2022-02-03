@@ -1,6 +1,0 @@
-NPCB RANDOM NECROMANCER SPAWN:
- 
-/run xx = math.floor(math.random(70575, 70579));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-
-

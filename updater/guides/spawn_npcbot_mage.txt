@@ -1,6 +1,0 @@
-NPCB RANDOM MAGE SPAWN:
- 
-/run xx = math.floor(math.random(70301, 70336));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-
-

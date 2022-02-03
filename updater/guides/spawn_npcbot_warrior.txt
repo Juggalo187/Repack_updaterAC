@@ -1,5 +1,0 @@
-NPCB RANDOM WARRIOR SPAWN:
- 
-/run xx = math.floor(math.random(70001, 70038));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-

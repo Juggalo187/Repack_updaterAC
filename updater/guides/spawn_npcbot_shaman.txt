@@ -1,6 +1,0 @@
-NPCB RANDOM SHAMAN SPAWN:
- 
-/run xx = math.floor(math.random(70251, 70268));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-
-

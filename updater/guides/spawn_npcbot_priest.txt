@@ -1,4 +1,0 @@
-NPCB RANDOM PRIEST SPAWN:
- 
-/run xx = math.floor(math.random(70201, 70240));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");

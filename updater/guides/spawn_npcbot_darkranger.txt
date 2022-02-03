@@ -1,6 +1,0 @@
-NPCB RANDOM DARK RANGER SPAWN:
- 
-/run xx = math.floor(math.random(70568, 70572));
-/run SendChatMessage(".npcb spawn "..xx.."","SAY");
-
-
